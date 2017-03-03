@@ -83,6 +83,7 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.nav_camara) {
             // Handle the camera action
         } else if (id == R.id.nav_gallery) {
+            //added new line for testing commit....??????
 
         } else if (id == R.id.nav_slideshow) {
 
